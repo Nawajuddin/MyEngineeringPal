@@ -14,6 +14,7 @@ Our script will automatically redirect to installation setup. \
 Then follow the instructions carefully. \
 🎉Enjoy! Your setup is complete.
 ## Created & Developed by
+- [Sk Nawaj Uddin](https://www.linkedin.com/in/sk-nawaj-uddin7878/)
 - [Swarnadeep Karmakar](https://www.linkedin.com/in/iamswarnadeep/)
 - [Ankesh Halder](https://www.linkedin.com/in/ankesh-halder-6b5556243/) 
-- [Sk Nawaj Uddin](https://www.linkedin.com/in/sk-nawaj-uddin7878/)
+
